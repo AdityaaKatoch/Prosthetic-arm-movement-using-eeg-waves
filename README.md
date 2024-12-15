@@ -1,4 +1,5 @@
-# Brain Controlled Command
+# Brain Controlled Prosthetic arm 
+
 
 
 
